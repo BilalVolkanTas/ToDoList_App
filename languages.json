@@ -1,0 +1,28 @@
+{
+  "tr": {
+    "title": "📝 Yapılacaklar Listesi",
+    "add_task": "Görev Ekle",
+    "exit": "Çıkış",
+    "delete_confirm": "silinsin mi?",
+    "input_warning": "Lütfen bir görev girin.",
+    "invalid_task": "Geçersiz görev seçildi.",
+    "delete": "Sil",
+    "settings": "Ayarlar",
+    "language": "Dil Seçimi",
+    "save": "Kaydet",
+    "restart_info": "Uygulama yeniden başlatılacak."
+  },
+  "en": {
+    "title": "📝 To‑Do List",
+    "add_task": "Add Task",
+    "exit": "Exit",
+    "delete_confirm": "delete this task?",
+    "input_warning": "Please enter a task.",
+    "invalid_task": "Invalid task selected.",
+    "delete": "Delete",
+    "settings": "Settings",
+    "language": "Select Language",
+    "save": "Save",
+    "restart_info": "Application will restart."
+  }
+}
